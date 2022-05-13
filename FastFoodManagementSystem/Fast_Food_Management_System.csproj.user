@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FastFoodManagementSystem\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastFoodManagementSystem\GuestOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastFoodManagementSystem\ItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastFoodManagementSystem\UserOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastFoodManagementSystem\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastFoodManagementSystem\ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
