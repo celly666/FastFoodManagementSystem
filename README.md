@@ -62,7 +62,7 @@
      <br/>
     <br/>
     <br/>
-Item form
+Items form
   <p align = "left">
     <img src="https://github.com/celly666/FastFoodManagementSystem/blob/main/image/itemform.PNG" with="300" height="300" />
      <br/>
