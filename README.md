@@ -11,7 +11,7 @@
 <br/>
   
   ## General info
-  Using C#, WPF framework and SQL server. <br/>
+  Using C#, WinForms framework and SQL server. <br/>
   To run just clone or download add into Visual Studio, for database check out screenshots and figure out database, add them in your SQL server.
 <br/>
 <br/>
