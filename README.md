@@ -22,7 +22,7 @@
   List of features :
   <br/>
   
-  - User, quest, items, orders - add/delete/edit
+  - User, guest, items, orders - add/delete/edit
   - Ability to set filters
   - Login-in system
   - Generating order summary and an ability to print it
@@ -50,7 +50,7 @@
      <br/>
     <br/>
     <br/>
-   Quest form
+   Guest form
   <p align = "left">
     <img src="https://github.com/celly666/FastFoodManagementSystem/blob/main/image/questform.PNG" with="300" height="300" />
      <br/>
